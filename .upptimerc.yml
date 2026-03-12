@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.decomai-dev.bonp.me
   # baseUrl: /decomai-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://decomai-dev.bonp.me/assets/images/icon.png
   name: "Decom AI"
   introTitle: ""
   introMessage: ""
