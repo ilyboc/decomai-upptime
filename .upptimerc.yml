@@ -12,6 +12,7 @@ status-website:
   cname: status.decomai-dev.bonp.me
   # baseUrl: /decomai-upptime
   logoUrl: https://decomai-dev.bonp.me/assets/images/icon.png
+  themeUrl: https://status.decomai-dev.bonp.me/custom-theme.css
   name: "Decom AI"
   introTitle: ""
   introMessage: ""
