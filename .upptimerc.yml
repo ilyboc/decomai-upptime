@@ -5,6 +5,8 @@ repo: decomai-upptime # The name of this repository
 sites:
   - name: DecomAI
     url: https://decomai-dev.bonp.me
+  - name: DecomAI API
+    url: https://decomai-workflows-611203423015.asia-northeast1.run.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
