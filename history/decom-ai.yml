@@ -1,7 +1,7 @@
 url: https://decomai-dev.bonp.me
-status: up
-code: 200
-responseTime: 418
-lastUpdated: 2026-03-17T23:06:02.580Z
+status: down
+code: 500
+responseTime: 4604
+lastUpdated: 2026-03-18T11:13:09.072Z
 startTime: 2026-03-12T02:10:08.500Z
 generator: Upptime <https://github.com/upptime/upptime>
