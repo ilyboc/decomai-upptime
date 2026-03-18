@@ -4,17 +4,17 @@
     "url": "https://decomai-dev.bonp.me",
     "icon": "https://icons.duckduckgo.com/ip3/decomai-dev.bonp.me.ico",
     "slug": "decom-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 418,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 737,
+    "timeDay": 2511,
+    "timeWeek": 737,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   }
 ]
