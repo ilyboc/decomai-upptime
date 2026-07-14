@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/decomai-dev.bonp.me.ico",
     "slug": "decom-ai",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.53%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.53%",
     "time": 824,
     "timeDay": 462,
     "timeWeek": 414,
@@ -17,7 +17,8 @@
     "timeYear": 824,
     "dailyMinutesDown": {
       "2026-03-19": 51,
-      "2026-03-18": 767
+      "2026-03-18": 767,
+      "2026-07-14": 21
     }
   }
 ]
